@@ -62,3 +62,8 @@ Package.resolved
 # Visual Studio generated files
 open_spiel/.vs
 /.env
+docs/fix_table_links.sh
+*.sh
+install.sh
+/docs
+*.sh
