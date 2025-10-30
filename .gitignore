@@ -67,3 +67,7 @@ docs/fix_table_links.sh
 install.sh
 /docs
 *.sh
+/open_spiel/integration_tests/playthroughs
+/open_spiel/json
+/open_spiel/pybind11_json
+/open_spiel/bots/roshambo
